@@ -1,5 +1,5 @@
 {
-  "name": "rev-del",
+  "name": "daguike-gulp-rev-del",
   "version": "1.0.4",
   "description": "Delete replaced files from an old manifest",
   "main": "index.js",
