@@ -40,7 +40,7 @@ function revDel(options, cb) {
 		if (options.oldManifest) {
 			options.oldManifest = getManifest(options.oldManifest, options.suppress);
 		} else {
-			options.oldManifest = getManifest(path.join(options.dest, file.path), options.suppress);
+			options.oldManifest = getManifest(file.path, options.suppress);
 		}
 
 		try {
