@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/callumacrae/rev-del"
+    "url": "https://github.com/daguike/rev-del"
   },
   "keywords": [
     "gulpplugin",
@@ -19,12 +19,12 @@
     "version",
     "versioning"
   ],
-  "author": "Callum Macrae <callum@macr.ae>",
+  "author": "daguike",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/callumacrae/rev-del/issues"
+    "url": "https://github.com/daguike/rev-del/issues"
   },
-  "homepage": "https://github.com/callumacrae/rev-del",
+  "homepage": "https://github.com/daguike/rev-del",
   "dependencies": {
     "del": "^1.1.1",
     "lodash": "^3.1.0",
